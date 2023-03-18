@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="88903751-64eb-4053-8a27-bd69bedab3fe" name="front">
+        <fileTransfer rootFolder="/var/www/html/frontservice/" accessType="SFTP" host="46.253.143.86" port="22" sshConfigId="a6815b0a-9fbf-48d7-94a4-c17e30d7db22" sshConfig="root@46.253.143.86:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
